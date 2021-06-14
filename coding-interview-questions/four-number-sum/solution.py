@@ -1,5 +1,5 @@
 # O(n³) time | O(n) space
-
+# where n is the length of the array
 def fourNumberSum(array, targetSum):
     results = []
     array.sort()
